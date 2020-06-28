@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Sunday reading"
 date: 2020-06-28
