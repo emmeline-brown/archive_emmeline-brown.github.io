@@ -12,7 +12,7 @@ https://medium.com/@iosipratama/21-examples-of-personal-development-goals-for-a-
 my Tesla, and high five all my female colleagues like the best of them).
 
 2) Secondly, in a similar vein, I read How to Spend it, https://howtospendit.ft.com/mens-style/208114-how-dress-like-tech-bro. My synopsis of this article
-is that those in the Valley have affected variations on the Steve Jobs turtleneck and the Mark Zuckerberg greyscale to demonstrate their commitment to functionality
+is that those in the Valley have en masse affected variations on the Steve Jobs turtleneck and the Mark Zuckerberg greyscale to demonstrate their commitment to functionality
 and code while rebelling against corporate norms.
 
 Per the article: 'The dogma is that minimalism and monotony yield extra productivity. “I really want to clear my life to make it so that I have to make as few decisions as possible 
