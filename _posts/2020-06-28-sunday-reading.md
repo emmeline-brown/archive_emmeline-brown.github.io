@@ -8,7 +8,7 @@ Though possibly this could just go on a goodreads or blogreads, instead it's goi
 Here are a few things I have read this Sunday:
 
 1) Like a good aspiring tech bro* I have read about dun dun dunnn... personal development.
-https://medium.com/@iosipratama/21-examples-of-personal-development-goals-for-a-better-you-7dddcbc2f1b1 (soon I will be able to microdose, fall asleep at the wheel of
+[medium/21-examples-of-personal-development-goals-for-a-better-you](https://medium.com/@iosipratama/21-examples-of-personal-development-goals-for-a-better-you-7dddcbc2f1b1) (soon I will be able to microdose, fall asleep at the wheel of
 my Tesla, and high five all my female colleagues like the best of them).
 
 2) Secondly, in a similar vein, I read How to Spend it, https://howtospendit.ft.com/mens-style/208114-how-dress-like-tech-bro. My synopsis of this article
