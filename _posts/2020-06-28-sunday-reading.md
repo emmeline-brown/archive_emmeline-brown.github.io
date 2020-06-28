@@ -24,7 +24,7 @@ though I can't imagine it giving you a competitive advantage (re time) over some
 is just normal, rather than indicating all huel consuming dedication. Anyway, their conclusion is similar: "it’s hard to code individual style."
 
 FTFashion is pretty good generally. I particularly liked its analysis of Dominic Cummings' apologywear (Barnard Castle):
-[ft.com/dominic-cummings-apology](https://www.ft.com/content/ee3392ca-9f63-11ea-b65d-489c67b0d85d)
+[ft.com/dominic-cummings-apology-outfit](https://www.ft.com/content/ee3392ca-9f63-11ea-b65d-489c67b0d85d)
 It's another analysis of apparent casual/plain/ragged look implementation of the "red sneakers effect"
 
 3) Next I read: [medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners](https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5). This blog post is about a Computer Vision recipes 
