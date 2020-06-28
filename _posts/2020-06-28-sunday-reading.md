@@ -7,11 +7,11 @@ date: 2020-06-28
 Though possibly this could just go on a goodreads or blogreads, instead it's going here # this way I can add a few more comments and get some more experience of github.io.
 Here are a few things I have read this Sunday:
 
-1) Like a good aspiring tech bro* I have read about dun dun dunnn... personal development.
+1) Like a good aspiring tech bro* I have read about dun dun dunnn... personal development-
 [medium/21-examples-of-personal-development-goals-for-a-better-you](https://medium.com/@iosipratama/21-examples-of-personal-development-goals-for-a-better-you-7dddcbc2f1b1) (soon I will be able to microdose, fall asleep at the wheel of
 my Tesla, and high five all my female colleagues like the best of them).
 
-2) Secondly, in a similar vein, I read How to Spend it, https://howtospendit.ft.com/mens-style/208114-how-dress-like-tech-bro. My synopsis of this article
+2) Secondly, in a similar vein, I read How to Spend it, [ft.com/how-dress-like-tech-bro](https://howtospendit.ft.com/mens-style/208114-how-dress-like-tech-bro). My synopsis of this article
 is that those in the Valley have en masse affected variations on the Steve Jobs turtleneck and the Mark Zuckerberg greyscale to demonstrate their commitment to functionality
 and code while rebelling against corporate norms.
 
@@ -24,10 +24,10 @@ though I can't imagine it giving you a competitive advantage (re time) over some
 is just normal, rather than indicating all huel consuming dedication. Anyway, their conclusion is similar: "it’s hard to code individual style."
 
 FTFashion is pretty good generally. I particularly liked its analysis of Dominic Cummings' apologywear (Barnard Castle):
-https://www.ft.com/content/ee3392ca-9f63-11ea-b65d-489c67b0d85d
+[ft.com/dominic-cummings-apology](https://www.ft.com/content/ee3392ca-9f63-11ea-b65d-489c67b0d85d)
 It's another analysis of apparent casual/plain/ragged look implementation of the "red sneakers effect"
 
-3) Next I read: https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5. This blog post is about a Computer Vision recipes 
+3) Next I read: [medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners](https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5). This blog post is about a Computer Vision recipes 
 repository, which provides detailed instructions of different Computer Vision scenarios and advice for pitfalls that are likely to occur. It's the kind of post that is
 useful if you are working on a specific project.
 
