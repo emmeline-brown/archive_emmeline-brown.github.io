@@ -1,8 +1,8 @@
----
- layout: post
- title: "Sunday reading"
- date: 2020-06-28
  ---
+layout: post
+title: "Sunday reading"
+date: 2020-06-28
+---
 
 Though possibly this could just go on a goodreads or blogreads, instead it's going here # this way I can add a few more comments and get some more experience of github.io.
 Here are a few things I have read this Sunday:
