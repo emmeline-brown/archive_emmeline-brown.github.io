@@ -2,3 +2,4 @@ name: PhD blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-modernist
+avatar: "/docs/assets/images/display_pic_githubio.jpg"
